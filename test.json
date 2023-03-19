@@ -1,0 +1,48 @@
+{
+    "Message": "Success",
+    "TotalValue": 1519117.11,
+    "Time": "2023-03-19T00:55:29.46194Z",
+    "SubmissionCount": 40,
+    "Submission": [
+      {
+        "Action": "BUY",
+        "Ticker": "UAL",
+        "Date": "2023-01-04"
+      },
+      {
+        "Action": "SELL",
+        "Ticker": "UAL",
+        "Date": "2023-01-18"
+      },
+      {
+        "Action": "BUY",
+        "Ticker": "LUV",
+        "Date": "2023-01-19"
+      },
+      {
+        "Action": "SELL",
+        "Ticker": "LUV",
+        "Date": "2023-01-23"
+      },
+      {
+        "Action": "BUY",
+        "Ticker": "UAL",
+        "Date": "2023-01-24"
+      },
+      {
+        "Action": "SELL",
+        "Ticker": "UAL",
+        "Date": "2023-01-26"
+      },
+      {
+        "Action": "BUY",
+        "Ticker": "LUV",
+        "Date": "2023-01-27"
+      },
+      {
+        "Action": "SELL",
+        "Ticker": "LUV",
+        "Date": "2023-01-30"
+      }
+    ]
+  }
